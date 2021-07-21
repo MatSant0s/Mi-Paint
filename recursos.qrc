@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/iconos">
+        <file>recursos/cepillo.png</file>
+        <file>recursos/cerrar-sesion.png</file>
+        <file>recursos/circulo-de-color.png</file>
+        <file>recursos/disquete.png</file>
+        <file>recursos/nuevo.png</file>
+    </qresource>
+</RCC>
